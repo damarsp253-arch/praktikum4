@@ -1,7 +1,5 @@
 ﻿# Praktikum-4
- Nama : Damar Satryo Pambudi
- kelas : TI.25.A.2
- NIM : 312510189
+ Nama : Damar Satryo Pambudi (312510189)
 ---
 
 # *Penjelasan / Langkah-langkah Program*
